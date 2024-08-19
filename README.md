@@ -1,0 +1,2 @@
+# MiniBlog
+new repository mini
